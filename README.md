@@ -36,12 +36,12 @@ ClientMeta: The ClientMeta class defines constants related to the HTTP client, s
 
 #Examples
 Making a GET Request
-
+```csharp
 using UnityEngine;
 using RestfulWebClient.Core;
 using RestfulWebClient.Core.Models;
 
-```csharp
+
 public class SampleAPIS : MonoBehaviour
 {
     private void Start()
